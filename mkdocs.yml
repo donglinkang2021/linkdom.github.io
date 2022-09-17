@@ -1,1 +1,5 @@
 site_name: My Docs
+pages:
+- [index.md, Home]
+- [README.md, ABOUT]
+- [Done_list, 任务表]
