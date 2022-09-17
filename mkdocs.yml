@@ -1,5 +1,16 @@
-site_name: My Docs
-pages:
-- [index.md, Home]
-- [README.md, ABOUT]
-- [Done_list, 任务表]
+site_name: linkdom blog
+site_description: linkdom book to record xiaokang life
+site_author: linkdom
+site_url: https://linkdom.github.io
+
+# UI customization
+
+theme: readthedocs
+
+# Navigation
+nav:
+  - 首页: index.md
+  - 任务: TO_DO_LIST.md
+  - ABOUT: about.md
+  - 日志: 
+      - 0916: Done_list/0916.md
