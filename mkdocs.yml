@@ -1,7 +1,7 @@
 site_name: linkdom blog
 site_description: linkdom book to record xiaokang life
 site_author: linkdom
-site_url: https://linkdom.github.io
+site_url: https://donglinkang2021.github.io/linkdom.github.io/
 
 # UI customization
 
@@ -13,4 +13,11 @@ nav:
   - 任务: TO_DO_LIST.md
   - ABOUT: about.md
   - 日志: 
-      - 0916: Done_list/0916.md
+      - 2022-08:
+          - 0819: Daily_note/2022-08/0819.md
+          - 0820: Daily_note/2022-08/0820.md
+          - 0821: Daily_note/2022-08/0821.md
+          - 0822: Daily_note/2022-08/0822.md
+          - 0823: Daily_note/2022-08/0823.md
+      - 2022-09:
+          - 0916: Daily_note/2022-09/0916.md        
