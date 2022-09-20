@@ -27,5 +27,5 @@
 
 [(165条消息) github pages+阿里云域名绑定搭建个人博客_weixin_30830327的博客-CSDN博客](https://blog.csdn.net/weixin_30830327/article/details/99747410?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-99747410-blog-68065608.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-99747410-blog-68065608.topnsimilarv1&utm_relevant_index=1)
 
-
+[配置material問題](https://github.com/squidfunk/mkdocs-material/issues/52)
 

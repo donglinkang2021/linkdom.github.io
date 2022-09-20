@@ -5,7 +5,14 @@ site_url: https://donglinkang2021.github.io/linkdom.github.io/
 
 # UI customization
 
-theme: readthedocs
+theme:
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
 
 # Navigation
 nav:
